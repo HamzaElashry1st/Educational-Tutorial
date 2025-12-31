@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556045063093",
+    "project_id": "rosy-precinct-393019",
+    "storage_bucket": "rosy-precinct-393019.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556045063093:android:532a50d51fe801df3d3ffc",
+        "android_client_info": {
+          "package_name": "com.hamza.edu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556045063093-pl500l2arp565trjc5ui8eg2g6540t0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA12SNG4YUXFehW7eu-vmhBRYQHhB9rs9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556045063093-m5iaa5t9lskge6pkrs2pkouugc9adlou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
